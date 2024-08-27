@@ -1,4 +1,6 @@
- # Hello!! 👋 I am<a href="linkedin.com/in/junyeow"> Jun Yeow</a> :smiley:
+ # Hello!! 👋 I am Jun Yeow :smiley:
+
+<br>
 
 Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python | SQL | Tableau | PowerBI | Programming
 
