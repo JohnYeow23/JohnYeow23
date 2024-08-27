@@ -6,6 +6,8 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 
   ## :man_technologist: About Me:
   <img align='right' src="https://gifsec.com/wp-content/uploads/2022/10/zenitsu-gif-2.gif" width="230">
+
+  <br>
   
   - University of London's 3rd year Data Science and Business Analytics student. 
   - Currently working as a **Logistics Analytics Engineering Intern in foodpanda**.
@@ -38,10 +40,15 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 <br>
 
 ## :fire: Tech:
+
+<br>
+
 - Data Analysis: **Pandas** and **SQL**
 - Data Science **Machine Learning** and **GenAI**
 - Data Visualisation: **Tableau**, **PowerBI** and **Looker Studio**
 - Data Engineering: **Apache Airflow** and **Database Management**
+
+<br>
 
 ```python
 john_dict = {
@@ -51,6 +58,8 @@ john_dict = {
     "hobbies": None
 }
 ```
+
+<br>
 
 ## :dancers: Communities:
 - Contributer at [SIM DAC](https://scodein.tech/) (An Open Source repository for students.)
