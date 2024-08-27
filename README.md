@@ -32,8 +32,9 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 </div>
 
 <br>
+<br>
 
-## Tech :fire:
+## :fire: Tech:
 - Data Analysis: **Pandas** and **SQL**
 - Data Science **Machine Learning** and **GenAI**
 - Data Visualisation: **Tableau**, **PowerBI** and **Looker Studio**
@@ -48,7 +49,7 @@ john_dict = {
 }
 ```
 
-## Communities :dancers:
+## :dancers: Communities:
 - Contributer at [SIM DAC](https://scodein.tech/) (An Open Source repository for students.)
 
 <p align="center"> Visitor count<br>
