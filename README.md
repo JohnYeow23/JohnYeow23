@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- # <a href="linkedin.com/in/junyeow">Yeo Jun Yeow</a> :smiley:
+ # <a href="linkedin.com/in/junyeow"> I am Jun Yeow</a> :smiley:
  
 
 <!-- <a href="https://linkedin.com/in/junyeow">
