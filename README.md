@@ -64,6 +64,8 @@ john_dict = {
 ## :dancers: Communities:
 - Contributer at [SIM DAC](https://github.com/DACSIM) (An Open Source repository for students.)
 
+<br>
+
 <p align="center"> Visitor count<br>
     <img src="https://profile-counter.glitch.me/JohnYeow23/count.svg" />
 </p>
