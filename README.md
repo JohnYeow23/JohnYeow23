@@ -21,7 +21,6 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 ## About :sunglasses:
 University of London's 3rd-year Data Science and Business Analytics student. Currently working as a **Logistics Analytics Engineering Intern in foodpanda** and President of my School's Data Science Club. I am passionate about Data Science, Machine Learning and learning coding!
 
-/* ## Communities :dancers: */
 <!-- - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
 - Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
 - Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/) -->
