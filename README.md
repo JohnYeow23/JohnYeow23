@@ -31,6 +31,8 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
   </p>
 </div>
 
+<br>
+
 ## Tech :fire:
 - Data Analysis: **Pandas** and **SQL**
 - Data Science **Machine Learning** and **GenAI**
