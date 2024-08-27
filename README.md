@@ -11,6 +11,9 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
   - Currently working as a **Logistics Analytics Engineering Intern in foodpanda**.
   - President of the Data Analytics Club
   - Full time bug creator and data validator 
+    
+  <br>
+  <br>
   
   <p>
       <a href="https://www.linkedin.com/in/junyeow/">
