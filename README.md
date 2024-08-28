@@ -26,9 +26,6 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
       <a href="mailto:junyeow89@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-      <a href="https://www.instagram.com/in/junyeow/">
-        <img src="https://img.shields.io/badge/Instagram-f94877?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
-      </a>
       <a href="https://johnyeow23.github.io/JunYeow-Website/">
         <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=google%20docs&logoColor=white&cacheSeconds=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg&link=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg" alt="Portfolio Badge"/>
       </a>
