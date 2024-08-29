@@ -30,7 +30,7 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
         <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=google%20docs&logoColor=white&cacheSeconds=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg&link=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg" alt="Portfolio Badge"/>
       </a>
       <a href="https://drive.google.com/file/d/1x_-Z4a8l_AQXuItZqJBCvzND-3yAuS8Q/view">
-        <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=google%20docs&logoColor=black&cacheSeconds=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg" alt="Resume Badge"/>
+        <img src="https://img.shields.io/badge/Resume-moss?style=for-the-badge&logo=google%20docs&logoColor=white&cacheSeconds=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg" alt="Resume Badge"/>
       </a>
   </p>
 </div>
