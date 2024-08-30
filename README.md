@@ -1,4 +1,4 @@
- # Hello!! 👋 I am Jun Yeow :smiley:
+ # Hello!! I am Jun Yeow 👋
 
 <br>
 
