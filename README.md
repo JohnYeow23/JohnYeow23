@@ -54,7 +54,7 @@ john_dict = {
     "code": ["Python", "SQL", "HTML", "CSS"]
     "tools": ["Tableau", "PowerBI", "dbt", "GitHub"]
     "databases": ["MySql", "PostgreSQL", "RedShift", "BigQuery"]
-    "hobbies": None
+    "hobbies": Error 😭
 }
 ```
 
