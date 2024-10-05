@@ -61,7 +61,8 @@ john_dict = {
 <br>
 
 ## :dancers: Communities:
-- Contributer at [SIM DAC](https://github.com/DACSIM) (An Open Source repository for students.)
+- Contributer at [SIM DAC](https://github.com/DACSIM/DAC-Curriculum) (An Open Source data analytics repository for students.)
+- Contributer at [SIM DSA](https://github.com/DACSIM/DSA-Curriculum) (An Open Source data science repository for students.)
 
 <br>
 
