@@ -60,7 +60,7 @@ john_dict = {
 
 <br>
 
-## :laptop: My Projects:
+## :computer: My Projects:
 
 <br>
 
