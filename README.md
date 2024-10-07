@@ -7,7 +7,7 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 <div >
 
   ## :man_technologist: About Me:
-  <img align='right' src="https://gifsec.com/wp-content/uploads/2022/10/zenitsu-gif-2.gif" width="230">
+  <img align='right' src="https://gifsec.com/wp-content/uploads/2022/10/zenitsu-gif-2.gif" width="290" height="300">
 
   <br>
   
@@ -38,7 +38,7 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 <br>
 <br>
 
-## :fire: Tech:
+## :fire: Tech Skills:
 
 <br>
 
