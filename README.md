@@ -54,9 +54,13 @@ john_dict = {
     "code": ["Python", "SQL", "HTML", "CSS"]
     "tools": ["Tableau", "PowerBI", "dbt", "GitHub"]
     "databases": ["MySql", "PostgreSQL", "RedShift", "BigQuery"]
-    "hobbies": Error 😭
+    "hobbies": Error 404 😭
 }
 ```
+
+<br>
+
+## :laptop: My Projects:
 
 <br>
 
