@@ -65,11 +65,9 @@ john_dict = {
 <br>
 
 ## :dancers: Communities:
-- Contributer at [SIM DAC](https://github.com/DACSIM/DAC-Curriculum)
- - (An Open Source data analytics repository for SIM students.)
+- Lead contributor at [SIM DAC](https://github.com/DACSIM/DAC-Curriculum) - This open-source curriculum, DACademy, was developed under my leadership as the president of the club, to serve as a comprehensive resource for SIM students interested in data analytics. Designed to be beginner-friendly, DACademy covers fundamental skills such as Python, machine learning and SQL, empowering students to build a solid foundation in data analysis. In addition to leading the curriculum’s creation, I have taught key topics, helping students apply these skills through real-world projects and interactive sessions.
 
-- Contributer at [SIM DSA](https://github.com/DACSIM/DSA-Curriculum)
- - (An Open Source data science repository for SIM students.)
+- Lead contributor at [SIM DSA](https://github.com/DACSIM/DSA-Curriculum), the advanced data science curriculum at SIM, was developed under my leadership to address the needs of students interested in deeper data science topics like deep learning, data engineering and generative AI. This curriculum provides hands-on projects and resources that allow students to master advanced concepts. I have also taught various topics within this curriculum, helping students engage with cutting-edge data science techniques and gain practical experience.
 
 <br>
 
