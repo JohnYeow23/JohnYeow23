@@ -61,6 +61,7 @@ john_dict = {
 <br>
 
 ## :computer: My Projects:
+- **[AI Web Scraper](https://github.com/JohnYeow23/ai_webber/tree/main)**: An AI-powered web scraper that lets users extract and query information from any website by providing a URL. The app scrapes the site, retrieves its DOM content, and allows for targeted queries via AI. Built with tools like Selenium, BeautifulSoup, LangChain, and Streamlit, it offers a user-friendly UI and showcases the potential of combining web scraping with AI for interactive data extraction. [Try the live demo on Streamlit!](https://aiwebber-c2w8dfibt3htpgwtpswmif.streamlit.app/)
 
 <br>
 
