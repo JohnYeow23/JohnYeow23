@@ -42,10 +42,10 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
 
 <br>
 
-- Data Analysis: **Pandas** and **SQL**
+- Data Analysis: **Pandas**, **Numpy** and **SQL**
 - Data Science **Machine Learning** and **GenAI**
 - Data Visualisation: **Tableau**, **PowerBI** and **Looker Studio**
-- Data Engineering: **Apache Airflow** and **Database Management**
+- Data Engineering: **Apache Airflow**, **Dockers** and **Database Management**
 
 <br>
 
