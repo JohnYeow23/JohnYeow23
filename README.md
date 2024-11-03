@@ -32,6 +32,9 @@ Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python
       <a href="https://johnyeow23.github.io/JunYeow-Website/">
         <img src="https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=google%20docs&logoColor=white&cacheSeconds=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg&link=https%3A%2F%2Fprofile-counter.glitch.me%2FJohnYeow23%2Fcount.svg" alt="Website Badge"/>
       </a>
+      <a href="https://share.streamlit.io/user/johnyeow23">
+        <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge"/>
+      </a>
   </p>
 </div>
 
