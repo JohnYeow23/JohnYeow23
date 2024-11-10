@@ -1,6 +1,6 @@
  # Hello!! I am Jun Yeow 👋
 
-Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python | SQL | Tableau | PowerBI | Programming
+### **Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python | SQL | Tableau | PowerBI | Programming**
 <img align='right' src="https://images8.alphacoders.com/137/1378704.png">
 
 <br>
