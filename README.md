@@ -1,10 +1,11 @@
  # Hello!! I am Jun Yeow 👋
 
+Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python | SQL | Tableau | PowerBI | Programming
+<img align='right' src="https://images8.alphacoders.com/137/1378704.png">
+
 <br>
 
-Aspiring AI Engineer | Data Science | Data Analytics | Machine Learning | Python | SQL | Tableau | PowerBI | Programming
-
-<div >
+<div>
 
   ## :man_technologist: About Me:
   <img align='right' src="https://gifsec.com/wp-content/uploads/2022/10/zenitsu-gif-2.gif" width="290" height="300">
